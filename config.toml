@@ -1,3 +1,17 @@
-baseURL = 'http://example.org/'
+baseURL = ''
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Twitter Downfall'
+theme = 'pixyll'
+
+builddrafts = false
+
+contentdir = "content"
+publishdir = "public"
+canonifyurls = true
+
+[indexes]
+category = "categories"
+tag = "tags"
+
+[params]
+search_engine = true
