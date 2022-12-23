@@ -17,3 +17,4 @@ https://twitter.com/EricFrohnhoefer/status/1591968783148920832?s=20&t=lFj1TnN_hL
 
 > @langdon @EricFrohnhoefer @pokemoniku He’s fired
 https://twitter.com/elonmusk/status/1592186302379982849
+
