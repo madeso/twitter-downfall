@@ -2,7 +2,6 @@
 title: "Eric and Musk"
 date: 2022-11-14T20:27:40+01:00
 tags: ['Eric Fronhoefer', 'Android']
-categories: ['Eric vs Musk']
 ---
 
 ![](2022-11-14-eric1.png)

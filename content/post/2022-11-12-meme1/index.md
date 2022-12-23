@@ -1,6 +1,7 @@
 ---
 title: "Meme"
 date: 2022-11-12T18:17:05+01:00
+tags: ['Bird', 'Meme']
 ---
 
 > I made a new Twitter logo.

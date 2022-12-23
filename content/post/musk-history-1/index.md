@@ -1,6 +1,7 @@
 ---
 title: "Paypal mafia"
 date: 2007-11-13T23:46:34+01:00
+tags: ['Paypal', 'Peter Thiel', 'History']
 ---
 
 https://fortune.com/2007/11/13/paypal-mafia/

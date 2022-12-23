@@ -1,6 +1,7 @@
 ---
 title: "2022 10 25 Dhh"
 date: 2022-12-23T20:18:08+01:00
+tags: ['DHH', 'WhatsApp']
 ---
 
 > Need it take 7,500 people to run Twitter?

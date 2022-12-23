@@ -1,6 +1,7 @@
 ---
 title: "2022 10 21 Gut"
 date: 2022-12-23T20:25:37+01:00
+tags: ['Fire', 'Porn']
 ---
 
 > Documents detail plans to gut Twitter’s workforce

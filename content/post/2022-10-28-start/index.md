@@ -1,7 +1,9 @@
 ---
 title: "2022 10 28 Start"
 date: 2022-12-23T20:09:22+01:00
+tags: ['Bird']
 ---
+
 
 > the bird is freed
 

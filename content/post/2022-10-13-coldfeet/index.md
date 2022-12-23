@@ -1,7 +1,7 @@
 ---
 title: "2022 10 13 Coldfeet"
 date: 2022-12-23T20:50:13+01:00
-draft: true
+tags: ['Investors']
 ---
 
 

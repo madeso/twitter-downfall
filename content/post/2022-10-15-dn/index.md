@@ -1,7 +1,7 @@
 ---
 title: "2022 10 15 Dn"
 date: 2022-12-23T20:42:47+01:00
-draft: true
+tags: ['In swedish', 'Ukraine', 'Taiwan']
 ---
 
 > Martin Gelin: Miljardären är på väg att bli en nyttig idiot

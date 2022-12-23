@@ -1,6 +1,7 @@
 ---
 title: "2022 11 11 Linus"
 date: 2022-12-23T18:41:19+01:00
+tags: ['Fire', 'In swedish']
 ---
 
 https://twitter.com/LinusLarsson/status/1590960484760506368

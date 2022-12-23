@@ -1,6 +1,7 @@
 ---
 title: "2022 10 30 Verification"
 date: 2022-12-23T19:57:08+01:00
+tags: ['Verification', 'Twitter Blue', 'Deadline']
 ---
 
 > Twitter is planning to start charging $20 per month for verification

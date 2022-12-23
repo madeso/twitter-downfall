@@ -1,6 +1,7 @@
 ---
 title: "Twitter context"
 date: 2022-11-12T18:17:39+01:00
+tags: ['Birdwatch', 'Notes']
 ---
 > I keep trying to look away, but it’s just so beautiful.
 

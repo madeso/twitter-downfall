@@ -1,7 +1,7 @@
 ---
 title: "2022 10 13 Burnthair"
 date: 2022-12-23T20:48:56+01:00
-
+tags: ['Burnt hair', 'Boring company']
 ---
 > The finest fragrance on Earth!
 > http://boringcompany.com/burnthair

@@ -1,6 +1,7 @@
 ---
 title: "2022 11 8 Paywall"
 date: 2022-12-23T19:00:28+01:00
+tags: ['Paywall']
 ---
 
 https://www.theverge.com/2022/11/7/23446262/elon-musk-twitter-paywall-possible

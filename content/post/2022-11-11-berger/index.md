@@ -1,6 +1,7 @@
 ---
 title: "2022 11 11 Berger"
 date: 2022-12-23T18:45:24+01:00
+tags: ['Catchup']
 ---
 
 > To review, @elonmusk’s last 24 hrs @Twitter: - Chiefs of Info Sec, Privacy, and Compliance quit
